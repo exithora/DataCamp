@@ -1,2 +1,2 @@
-# DataCamp
-Projects
+# DataCamp projects
+Jupyter notebooks
